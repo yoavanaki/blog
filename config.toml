@@ -1,16 +1,16 @@
 # Site settings
 baseurl = "your_site_url_address"
 languageCode = "en"
-title = "site title"
+title = "Yoav's Hyperlink Menagerie"
 theme = "hugo-theme-cactus-plus"
 googleAnalytics = "your_google_analytics_id"
 # Set the value to true if your site include CJK (Chinese, Japanese, and Korean languages) characters
 hasCJKLanguage = false
 
 [params]
-	author = "site_author"
-	description = "Site Description"
-	bio = "author biography"
+	author = "Yoav"
+	description = "A collection of curiousities from distant corners of the world wide web."
+	bio = "What Yoav enjoys most is writing of himself in the third person."
 
 	twitter = "your_twitter_id"
 	facebook = "your_facebook_id"
